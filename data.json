@@ -1,0 +1,197 @@
+[
+ {
+   "Date": "2/26/2019",
+   "Amount": 22.33,
+   "Category": "Food"
+ },
+ {
+   "Date": "2/27/2019",
+   "Amount": 35.65,
+   "Category": "Fun"
+ },
+ {
+   "Date": "3/5/2019",
+   "Amount": 96.31,
+   "Category": "Clothes"
+ },
+ {
+   "Date": "3/11/2019",
+   "Amount": 46.74,
+   "Category": "Other"
+ },
+ {
+   "Date": "3/13/2019",
+   "Amount": 24.21,
+   "Category": "Food"
+ },
+ {
+   "Date": "3/14/2019",
+   "Amount": 54.6,
+   "Category": "Fun"
+ },
+ {
+   "Date": "3/15/2019",
+   "Amount": 7.11,
+   "Category": "Other"
+ },
+ {
+   "Date": "3/18/2019",
+   "Amount": 80.6,
+   "Category": "Fun"
+ },
+ {
+   "Date": "3/20/2019",
+   "Amount": 24.07,
+   "Category": "Food"
+ },
+ {
+   "Date": "3/21/2019",
+   "Amount": 10.4,
+   "Category": "Other"
+ },
+ {
+   "Date": "3/22/2019",
+   "Amount": 36.37,
+   "Category": "Other"
+ },
+ {
+   "Date": "3/25/2019",
+   "Amount": 28.36,
+   "Category": "Clothes"
+ },
+ {
+   "Date": "3/26/2019",
+   "Amount": 231.32,
+   "Category": "Other"
+ },
+ {
+   "Date": "4/1/2019",
+   "Amount": 178.04,
+   "Category": "Other"
+ },
+ {
+   "Date": "4/2/2019",
+   "Amount": 4.85,
+   "Category": "Food"
+ },
+ {
+   "Date": "4/3/2019",
+   "Amount": 47.74,
+   "Category": "Clothes"
+ },
+ {
+   "Date": "4/5/2019",
+   "Amount": 4.84,
+   "Category": "Food"
+ },
+ {
+   "Date": "4/8/2019",
+   "Amount": 608.93,
+   "Category": "Fun"
+ },
+ {
+   "Date": "4/9/2019",
+   "Amount": 9.78,
+   "Category": "Fun"
+ },
+ {
+   "Date": "4/10/2019",
+   "Amount": 10.4,
+   "Category": "Food"
+ },
+ {
+   "Date": "4/11/2019",
+   "Amount": 28.1,
+   "Category": "Food"
+ },
+ {
+   "Date": "4/12/2019",
+   "Amount": 79.99,
+   "Category": "Other"
+ },
+ {
+   "Date": "4/15/2019",
+   "Amount": 201.42,
+   "Category": "Other"
+ },
+ {
+   "Date": "4/16/2019",
+   "Amount": 184.2,
+   "Category": "Other"
+ },
+ {
+   "Date": "4/17/2019",
+   "Amount": 18.04,
+   "Category": "Food"
+ },
+ {
+   "Date": "4/19/2019",
+   "Amount": 9,
+   "Category": "Food"
+ },
+ {
+   "Date": "4/22/2019",
+   "Amount": 241.22,
+   "Category": "Other"
+ },
+ {
+   "Date": "4/26/2019",
+   "Amount": 7.11,
+   "Category": "Fun"
+ },
+ {
+   "Date": "4/29/2019",
+   "Amount": 120.8,
+   "Category": "Fun"
+ },
+ {
+   "Date": "4/30/2019",
+   "Amount": 64.04,
+   "Category": "Food"
+ },
+ {
+   "Date": "5/7/2019",
+   "Amount": 2.29,
+   "Category": "Food"
+ },
+ {
+   "Date": "5/8/2019",
+   "Amount": 124.26,
+   "Category": "Other"
+ },
+ {
+   "Date": "5/9/2019",
+   "Amount": 12.58,
+   "Category": "Clothes"
+ },
+ {
+   "Date": "5/10/2019",
+   "Amount": 28.42,
+   "Category": "Clothes"
+ },
+ {
+   "Date": "5/13/2019",
+   "Amount": 217.44,
+   "Category": "Other"
+ },
+ {
+   "Date": "5/14/2019",
+   "Amount": 43.74,
+   "Category": "Food"
+ },
+ {
+   "Date": "5/20/2019",
+   "Amount": 232.02,
+   "Category": "Fun"
+ },
+ {
+   "Date": "5/22/2019",
+   "Amount": 150.15,
+   "Category": "Food"
+ },
+ {
+   "Date": "5/24/2019",
+   "Amount": 7.83,
+   "Category": "Food"
+ }
+]
